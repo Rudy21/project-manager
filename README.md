@@ -46,6 +46,10 @@ Status: Status of the project (e.g., "Completed", "Ongoing").
 
 Click Submit to add the project to the MongoDB database.
 
+
+![image](https://github.com/user-attachments/assets/73911cde-3f6f-4aaa-9487-ba9ff8ef22a2)
+
+
 # 2. Viewing Projects
 
 Go to the "View Projects" section via the sidebar menu.
@@ -53,3 +57,6 @@ Go to the "View Projects" section via the sidebar menu.
 The list of all the projects you have added will be displayed.
 
 You can see the Project Name, Description, and Status of each project.
+
+![image](https://github.com/user-attachments/assets/0eaf77c2-9a43-48ce-ae88-610f5effe0fc)
+
