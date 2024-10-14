@@ -39,12 +39,17 @@ Go to the "Add Projects" section via the sidebar menu.
 Fill in the following details:
 
 Project Name: Name of the project.
+
 Project Description: A brief description of the project.
+
 Status: Status of the project (e.g., "Completed", "Ongoing").
+
 Click Submit to add the project to the MongoDB database.
 
 # 2. Viewing Projects
 
 Go to the "View Projects" section via the sidebar menu.
+
 The list of all the projects you have added will be displayed.
+
 You can see the Project Name, Description, and Status of each project.
